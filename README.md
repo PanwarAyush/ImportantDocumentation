@@ -6,3 +6,4 @@
 | 3. | [React documentation](https://beta.reactjs.org/)|
 | 4. | [node api documentation](https://nodejs.org/api/)|
 | 5. | [npm Documentation](https://docs.npmjs.com/)|
+| 6. | [javascript Documentation(No offical docs)](https://javascript.info/)|
